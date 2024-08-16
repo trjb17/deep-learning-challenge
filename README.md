@@ -36,7 +36,6 @@ ReLU for hidden layers to enhance learning and avoid the vanishing gradient prob
 Sigmoid for the output layer to output a probability score between 0 and 1.
 
 Model Performance:
-
 Initial Model Performance:
 Accuracy: 72.48%
 Loss: 0.5612
@@ -57,8 +56,8 @@ Increased the number of epochs to 100 to allow more training iterations and impr
 Summary
 Overall Results:
 The optimized model achieved an accuracy of 72.30% and a loss of 0.5630. While there was a slight improvement in accuracy, it did not reach the desired target of 75%.
-Recommendations for Different Models:
 
+Recommendations for Different Models:
 Alternative Model Approaches:
 Complex Architectures: Explore more complex neural network architectures, such as deeper networks or networks with alternative activation functions and regularization techniques.
 Hyperparameter Tuning: Conduct extensive hyperparameter tuning to identify the optimal settings for neurons, layers, learning rates, and dropout rates.
